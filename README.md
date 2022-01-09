@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning and Computer Vision
 
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff">
-<img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Anaconda&logoColor=fff>
+<img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Anaconda&logoColor=fff">
 
 
 
