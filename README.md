@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Gym tracker Powered by AI
 - 🌱 I’m currently learning Machine Learning and Computer Vision
 
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff">
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-Manjunath&show_icons=true&theme=radical)
+
+
