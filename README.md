@@ -12,7 +12,9 @@
   - Filtered packets by protocols (e.g., TCP, HTTP, DNS) to isolate and focus on specific traffic for deeper analysis and troubleshooting.
   - Examined packet details to study headers, payloads, and metadata, uncovering critical insights into network behavior and potential vulnerabilities.
  
-- <b>Enterprise Office Network Design & Implementation (Cisco Packet Tracer)</b>
+- <b><a href="https://github.com/Prajwal-Manjunath/OfficeSpaceNetworkDesign" target="_blank">
+  Enterprise Office Network Design & Implementation (Cisco Packet Tracer)</a></b>
+
   - Designed & Implemented a Scalable Enterprise Network.
   - Configured a three-tier hierarchical network (Core, Distribution, Access layers). Implemented VLAN segmentation using trunking for departmental isolation.
   - Deployed OSPF multi-area routing for inter-VLAN and inter-floor communication.
