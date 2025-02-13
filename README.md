@@ -2,6 +2,29 @@
 
 <h2>👨‍💻 Cyber Security Projects</h2>
 
+- <b><a href="https://github.com/Prajwal-Manjunath/SOAR-EDR-Playbook-Project">
+  SOAR-EDR-Playbook-Project</a></b>
+
+  - Hands-on experience with EDR (LimaCharlie) for real-time threat detection.
+  - Creating custom detection rules to identify malicious processes.
+  - Configuring SOAR automation using Tines to process security alerts.
+  - Building an end-to-end incident response workflow using SOAR & EDR integration.
+  - Automating threat notifications via Slack and Email for SOC analysts.
+  - Implementing automated machine isolation in response to detected threats.
+  - Using API integrations between LimaCharlie, Tines, Slack, and Email.
+  - Understanding endpoint telemetry and event-based threat detection.
+  - Designing security playbooks to streamline SOC operations.
+ 
+- <b><a href="https://github.com/Prajwal-Manjunath/OfficeSpaceNetworkDesign" target="_blank">
+  Enterprise Office Network Design & Implementation (Cisco Packet Tracer)</a></b>
+
+  - Designed & Implemented a Scalable Enterprise Network.
+  - Configured a three-tier hierarchical network (Core, Distribution, Access layers). Implemented VLAN segmentation using trunking for departmental isolation.
+  - Deployed OSPF multi-area routing for inter-VLAN and inter-floor communication.
+  - Configured DHCP relay (IP Helper Address) for centralized IP allocation across VLANs.
+  - Integrated WPA2-secured Access Points for enterprise Wi-Fi connectivity.
+  
+
 - <b>Vulnerability Scan Using Burp Suite</b>
   - Intercepted HTTP traffic using Burp Proxy to analyze and study website behavior during various user interactions, enabling deeper understanding of request and response handling.
   - Modified intercepted HTTP requests to test application resilience against unexpected inputs, identifying potential vulnerabilities and response behaviors.
@@ -12,14 +35,6 @@
   - Filtered packets by protocols (e.g., TCP, HTTP, DNS) to isolate and focus on specific traffic for deeper analysis and troubleshooting.
   - Examined packet details to study headers, payloads, and metadata, uncovering critical insights into network behavior and potential vulnerabilities.
  
-- <b><a href="https://github.com/Prajwal-Manjunath/OfficeSpaceNetworkDesign" target="_blank">
-  Enterprise Office Network Design & Implementation (Cisco Packet Tracer)</a></b>
-
-  - Designed & Implemented a Scalable Enterprise Network.
-  - Configured a three-tier hierarchical network (Core, Distribution, Access layers). Implemented VLAN segmentation using trunking for departmental isolation.
-  - Deployed OSPF multi-area routing for inter-VLAN and inter-floor communication.
-  - Configured DHCP relay (IP Helper Address) for centralized IP allocation across VLANs.
-  - Integrated WPA2-secured Access Points for enterprise Wi-Fi connectivity.
 
 <h2>📺 Previous Work Experience </h2>
 
