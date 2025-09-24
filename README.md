@@ -2,6 +2,18 @@
 
 <h2>👨‍💻 Cyber Security Projects</h2>
 
+- <b><a href="https://github.com/Prajwal-Manjunath/Active-Directory-Homelab" target="_blank">
+  Active Directory Homelab </a></b>
+
+  - Built a Windows Server AD lab and managed the domain via Group Policy Management Console (GPMC).
+  - Implemented core security GPOs: Password Policy, Account Lockout Policy, and USB Storage Restriction.
+  - Enforced user restrictions by prohibiting access to Control Panel (Admin Templates → Control Panel).
+  - Delivered seamless access with Drive Mapping.
+  - Configured enterprise file sharing with proper Share + NTFS permissions for Domain Users and role-based access.
+  - Deployed FSRM to enforce storage governance: quotas (hard limits, alerts) and file screening (block executables/media).
+  - Automated persistent network drives via GPO (vs. manual map) to improve user experience and consistency.
+  - Documented step-by-step procedures with screenshots (policies, mappings, FSRM) for reproducibility.
+
 - <b><a href="https://github.com/Prajwal-Manjunath/SOAR-EDR-Playbook-Project">
   SOAR-EDR-Playbook-Project</a></b>
 
