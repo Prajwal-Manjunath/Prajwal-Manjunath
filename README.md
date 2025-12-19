@@ -14,7 +14,7 @@
 - <b><a href="https://github.com/Prajwal-Manjunath/Networking/blob/main/Static%20Routing/Readme.md" target="_blank">
   Static Routing Configuration</a></b>
 
-<h2>🔐 Cybersecurity & Network Security Projects</h2>
+<h2>🔐 Cybersecurity Projects</h2>
 
 - <b><a href="https://github.com/Prajwal-Manjunath/Active-Directory-Homelab" target="_blank">
   Active Directory Homelab</a></b>
