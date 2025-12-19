@@ -1,51 +1,30 @@
 <h1>Hi, I'm Prajwal Gujugolli Manjunath <br/> <a href="www.linkedin.com/in/prajwalmanjunath">Aspiring Network Engineer</a>
 
-<h2>👨‍💻 Cyber Security Projects</h2>
+<h2>🌐 Networking Projects</h2>
+
+- <b><a href="https://github.com/Prajwal-Manjunath/Networking/blob/main/SOHO/Readme.md" target="_blank">
+  Branch Office Network Design and Implementation</a></b>
+
+- <b><a href="https://github.com/Prajwal-Manjunath/Networking/tree/main/officeNetworkDesign" target="_blank">
+  Multi-Floor Office Network Design</a></b>
+
+- <b><a href="https://github.com/Prajwal-Manjunath/Networking/blob/main/vlan/README.md" target="_blank">
+  VLAN & Inter-VLAN Routing</a></b>
+
+- <b><a href="https://github.com/Prajwal-Manjunath/Networking/blob/main/Static%20Routing/Readme.md" target="_blank">
+  Static Routing Configuration</a></b>
+
+<h2>🔐 Cybersecurity & Network Security Projects</h2>
 
 - <b><a href="https://github.com/Prajwal-Manjunath/Active-Directory-Homelab" target="_blank">
-  Active Directory Homelab </a></b>
+  Active Directory Homelab</a></b>
 
-  - Built a Windows Server AD lab and managed the domain via Group Policy Management Console (GPMC).
-  - Implemented core security GPOs: Password Policy, Account Lockout Policy, and USB Storage Restriction.
-  - Enforced user restrictions by prohibiting access to Control Panel (Admin Templates → Control Panel).
-  - Delivered seamless access with Drive Mapping.
-  - Configured enterprise file sharing with proper Share + NTFS permissions for Domain Users and role-based access.
-  - Deployed FSRM to enforce storage governance: quotas (hard limits, alerts) and file screening (block executables/media).
-  - Automated persistent network drives via GPO (vs. manual map) to improve user experience and consistency.
-  - Documented step-by-step procedures with screenshots (policies, mappings, FSRM) for reproducibility.
+- <b><a href="https://github.com/Prajwal-Manjunath/SOAR-EDR-Playbook-Project" target="_blank">
+  SOAR–EDR Playbook Project</a></b>
 
-- <b><a href="https://github.com/Prajwal-Manjunath/SOAR-EDR-Playbook-Project">
-  SOAR-EDR-Playbook-Project</a></b>
-
-  - Hands-on experience with EDR (LimaCharlie) for real-time threat detection.
-  - Creating custom detection rules to identify malicious processes.
-  - Configuring SOAR automation using Tines to process security alerts.
-  - Building an end-to-end incident response workflow using SOAR & EDR integration.
-  - Automating threat notifications via Slack and Email for SOC analysts.
-  - Implementing automated machine isolation in response to detected threats.
-  - Using API integrations between LimaCharlie, Tines, Slack, and Email.
-  - Understanding endpoint telemetry and event-based threat detection.
-  - Designing security playbooks to streamline SOC operations.
- 
-- <b><a href="https://github.com/Prajwal-Manjunath/OfficeSpaceNetworkDesign" target="_blank">
-  Enterprise Office Network Design & Implementation (Cisco Packet Tracer)</a></b>
-
-  - Designed & Implemented a Scalable Enterprise Network.
-  - Configured a three-tier hierarchical network (Core, Distribution, Access layers). Implemented VLAN segmentation using trunking for departmental isolation.
-  - Deployed OSPF multi-area routing for inter-VLAN and inter-floor communication.
-  - Configured DHCP relay (IP Helper Address) for centralized IP allocation across VLANs.
-  - Integrated WPA2-secured Access Points for enterprise Wi-Fi connectivity.
-  
-
-- <b>Vulnerability Scan Using Burp Suite</b>
-  - Intercepted HTTP traffic using Burp Proxy to analyze and study website behavior during various user interactions, enabling deeper understanding of request and response handling.
-  - Modified intercepted HTTP requests to test application resilience against unexpected inputs, identifying potential vulnerabilities and response behaviors.
-  - Configured target scope to filter and focus on specific URLs and hosts, ensuring efficient testing by isolating relevant traffic. 
+- <b>Vulnerability Scanning Using Burp Suite</b>
 
 - <b>Network Traffic Analysis Using Wireshark</b>
-  - Captured and analyzed network packets to monitor real-time data flow, identify patterns, and detect anomalies in network traffic.
-  - Filtered packets by protocols (e.g., TCP, HTTP, DNS) to isolate and focus on specific traffic for deeper analysis and troubleshooting.
-  - Examined packet details to study headers, payloads, and metadata, uncovering critical insights into network behavior and potential vulnerabilities.
  
 
 <h2>📺 Previous Work Experience </h2>
@@ -67,6 +46,6 @@
 <h2> Certifications </h2>
 
 -  <b> Google Cybersecurity Professional Certificate</b>
--  <b> Working on completing CompTIA Security+ certificate </b> 
+-  <b> Working on completing CCNA Certificate</b> 
 
 
