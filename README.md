@@ -1,4 +1,15 @@
-<h1>Hi, I'm Prajwal Gujugolli Manjunath <br/> <a href="www.linkedin.com/in/prajwalmanjunath">Aspiring Security Engineer</a>
+<h1>
+  Hi, I'm Prajwal Gujugolli Manjunath <br/>
+  <a href="https://www.linkedin.com/in/prajwalmanjunath">
+    Aspiring Cybersecurity Engineer with hands-on learning experience and solid networking fundamentals
+  </a>
+</h1>
+<p>
+  My networking background helps me understand how attacks occur at the protocol and infrastructure level,
+  making my security approach more practical and structured. This perspective allows me to learn security
+  concepts faster and apply them meaningfully.
+</p>
+
 
 <h2>🌐 Networking Projects</h2>
 
