@@ -1,4 +1,4 @@
-<h1>Hi, I'm Prajwal Gujugolli Manjunath <br/> <a href="www.linkedin.com/in/prajwalmanjunath">Aspiring Network Engineer</a>
+<h1>Hi, I'm Prajwal Gujugolli Manjunath <br/> <a href="www.linkedin.com/in/prajwalmanjunath">Aspiring Security Engineer</a>
 
 <h2>🌐 Networking Projects</h2>
 
