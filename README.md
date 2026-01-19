@@ -57,6 +57,6 @@
 <h2> Certifications </h2>
 
 -  <b> Google Cybersecurity Professional Certificate</b>
--  <b> Working on completing CCNA Certificate</b> 
+-  <b> Working on completing CompTIA Security+ Certificate (Expected: Feb 2026)</b> 
 
 
