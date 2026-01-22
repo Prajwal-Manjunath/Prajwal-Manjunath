@@ -10,8 +10,22 @@
   concepts faster and apply them meaningfully.
 </p>
 
+<h2> Cybersecurity Projects</h2>
 
-<h2>🌐 Networking Projects</h2>
+- <b><a href="https://github.com/Prajwal-Manjunath/Log-Analysis" target="_blank">
+  Log Analysis With Splunk Using BotsV3 Dataset</a></b>
+  
+- <b><a href="https://github.com/Prajwal-Manjunath/Active-Directory-Homelab" target="_blank">
+  Active Directory Homelab</a></b>
+
+- <b><a href="https://github.com/Prajwal-Manjunath/SOAR-EDR-Playbook-Project" target="_blank">
+  SOAR–EDR Playbook Project</a></b>
+
+- <b>Vulnerability Scanning Using Burp Suite</b>
+
+- <b>Network Traffic Analysis Using Wireshark</b>
+
+<h2> Networking Projects</h2>
 
 - <b><a href="https://github.com/Prajwal-Manjunath/Networking/blob/main/SOHO/Readme.md" target="_blank">
   Branch Office Network Design and Implementation</a></b>
@@ -25,17 +39,7 @@
 - <b><a href="https://github.com/Prajwal-Manjunath/Networking/blob/main/Static%20Routing/Readme.md" target="_blank">
   Static Routing Configuration</a></b>
 
-<h2>🔐 Cybersecurity Projects</h2>
 
-- <b><a href="https://github.com/Prajwal-Manjunath/Active-Directory-Homelab" target="_blank">
-  Active Directory Homelab</a></b>
-
-- <b><a href="https://github.com/Prajwal-Manjunath/SOAR-EDR-Playbook-Project" target="_blank">
-  SOAR–EDR Playbook Project</a></b>
-
-- <b>Vulnerability Scanning Using Burp Suite</b>
-
-- <b>Network Traffic Analysis Using Wireshark</b>
  
 
 <h2>📺 Previous Work Experience </h2>
