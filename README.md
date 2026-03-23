@@ -12,6 +12,9 @@
 
 <h2> Cybersecurity Projects</h2>
 
+- <b><a href="https://github.com/Prajwal-Manjunath/SOC-Simulator-Challenges-TryHackMe/tree/main/Phishing%20Detection" target="_blank">
+  Phishing attack analysis using TryHackMe SOC Simulator</a></b>
+  
 - <b><a href="https://github.com/Prajwal-Manjunath/Log-Analysis" target="_blank">
   Log Analysis With Splunk Using BotsV3 Dataset</a></b>
   
