@@ -5,9 +5,7 @@
   </a>
 </h1>
 <p>
-  My networking background helps me understand how attacks occur at the protocol and infrastructure level,
-  making my security approach more practical and structured. This perspective allows me to learn security
-  concepts faster and apply them meaningfully.
+Master of IT graduate (RMIT, GPA 3.7) who learns by doing. I've hunted supply chain attacks through Sysmon logs, triaged phishing alerts in Splunk, automated endpoint isolation with a SOAR-EDR playbook, and hardened Active Directory environments all through hands-on labs and self-directed projects. I don't wait to be taught something; I go find it. I'm looking to bring that same curiosity and drive into a real SOC environment.
 </p>
 
 <h2> Cybersecurity Projects</h2>
@@ -26,10 +24,6 @@
 
 - <b><a href="https://github.com/Prajwal-Manjunath/SOAR-EDR-Playbook-Project" target="_blank">
   SOAR–EDR Playbook Project</a></b>
-
-- <b>Vulnerability Scanning Using Burp Suite</b>
-
-- <b>Network Traffic Analysis Using Wireshark</b>
 
 <h2> Networking Projects</h2>
 
@@ -67,6 +61,6 @@
 <h2> Certifications </h2>
 
 -  <b> Google Cybersecurity Professional Certificate</b>
--  <b> Working on completing CompTIA Security+ Certificate (Expected: Feb 2026)</b> 
+-  <b>Cyber Security 101 (SEC1) Certified</b> 
 
 
