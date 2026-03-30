@@ -1,7 +1,7 @@
 <h1>
   Hi, I'm Prajwal Gujugolli Manjunath <br/>
   <a href="https://www.linkedin.com/in/prajwalmanjunath">
-    Aspiring Cybersecurity Engineer with hands-on learning experience and solid networking fundamentals
+    A IT graduate who learns by doing, not just studying.
   </a>
 </h1>
 <p>
