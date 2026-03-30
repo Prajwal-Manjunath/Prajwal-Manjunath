@@ -12,6 +12,9 @@
 
 <h2> Cybersecurity Projects</h2>
 
+- <b><a href="https://github.com/Prajwal-Manjunath/Threat-Hunting-Simulation-Lab" target="_blank">
+  Threat Hunting Simulation Lab TryHackMe</a></b>
+
 - <b><a href="https://github.com/Prajwal-Manjunath/SOC-Simulator-Challenges-TryHackMe/tree/main" target="_blank">
   Phishing attack analysis using TryHackMe SOC Simulator</a></b>
   
