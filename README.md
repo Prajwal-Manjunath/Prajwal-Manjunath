@@ -1,7 +1,7 @@
 <h1>
   Hi, I'm Prajwal Gujugolli Manjunath <br/>
   <a href="https://www.linkedin.com/in/prajwalmanjunath">
-    A IT graduate who learns by doing, not just studying.
+    An IT graduate who learns by doing, not just studying.
   </a>
 </h1>
 <p>
